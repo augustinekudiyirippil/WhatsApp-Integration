@@ -1,0 +1,5 @@
+Steps
+1) Create an account in https://user.ultramsg.com/signup.php
+2) Find instance name and token
+3) Replace 32000 in instance32000 with your instance number in the web.config file
+4) Replace c3717hcur7****** with your token in the web.config file

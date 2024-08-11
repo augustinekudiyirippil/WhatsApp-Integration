@@ -1,0 +1,412 @@
+D:\Developments\WhatsApp Integration\TestWebAppUsingWhatsap\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\WebAppUsingWhatsAPP.dll.config
+D:\Developments\WhatsApp Integration\TestWebAppUsingWhatsap\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\WebAppUsingWhatsAPP.dll
+D:\Developments\WhatsApp Integration\TestWebAppUsingWhatsap\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\WebAppUsingWhatsAPP.pdb
+D:\Developments\WhatsApp Integration\TestWebAppUsingWhatsap\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\roslyn\csc.exe
+D:\Developments\WhatsApp Integration\TestWebAppUsingWhatsap\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\roslyn\csc.exe.config
+D:\Developments\WhatsApp Integration\TestWebAppUsingWhatsap\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\roslyn\csc.rsp
+D:\Developments\WhatsApp Integration\TestWebAppUsingWhatsap\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\roslyn\csi.exe
+D:\Developments\WhatsApp Integration\TestWebAppUsingWhatsap\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\roslyn\csi.exe.config
+D:\Developments\WhatsApp Integration\TestWebAppUsingWhatsap\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\roslyn\csi.rsp
+D:\Developments\WhatsApp Integration\TestWebAppUsingWhatsap\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Developments\WhatsApp Integration\TestWebAppUsingWhatsap\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Developments\WhatsApp Integration\TestWebAppUsingWhatsap\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Developments\WhatsApp Integration\TestWebAppUsingWhatsap\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Developments\WhatsApp Integration\TestWebAppUsingWhatsap\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Developments\WhatsApp Integration\TestWebAppUsingWhatsap\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Developments\WhatsApp Integration\TestWebAppUsingWhatsap\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Developments\WhatsApp Integration\TestWebAppUsingWhatsap\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Developments\WhatsApp Integration\TestWebAppUsingWhatsap\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Developments\WhatsApp Integration\TestWebAppUsingWhatsap\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Developments\WhatsApp Integration\TestWebAppUsingWhatsap\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Developments\WhatsApp Integration\TestWebAppUsingWhatsap\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Developments\WhatsApp Integration\TestWebAppUsingWhatsap\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\roslyn\System.AppContext.dll
+D:\Developments\WhatsApp Integration\TestWebAppUsingWhatsap\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\roslyn\System.Collections.Immutable.dll
+D:\Developments\WhatsApp Integration\TestWebAppUsingWhatsap\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\roslyn\System.Console.dll
+D:\Developments\WhatsApp Integration\TestWebAppUsingWhatsap\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Developments\WhatsApp Integration\TestWebAppUsingWhatsap\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Developments\WhatsApp Integration\TestWebAppUsingWhatsap\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Developments\WhatsApp Integration\TestWebAppUsingWhatsap\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\roslyn\System.Globalization.Calendars.dll
+D:\Developments\WhatsApp Integration\TestWebAppUsingWhatsap\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\roslyn\System.IO.Compression.dll
+D:\Developments\WhatsApp Integration\TestWebAppUsingWhatsap\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Developments\WhatsApp Integration\TestWebAppUsingWhatsap\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\roslyn\System.IO.FileSystem.dll
+D:\Developments\WhatsApp Integration\TestWebAppUsingWhatsap\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Developments\WhatsApp Integration\TestWebAppUsingWhatsap\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\roslyn\System.Net.Http.dll
+D:\Developments\WhatsApp Integration\TestWebAppUsingWhatsap\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\roslyn\System.Net.Sockets.dll
+D:\Developments\WhatsApp Integration\TestWebAppUsingWhatsap\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\roslyn\System.Reflection.Metadata.dll
+D:\Developments\WhatsApp Integration\TestWebAppUsingWhatsap\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Developments\WhatsApp Integration\TestWebAppUsingWhatsap\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Developments\WhatsApp Integration\TestWebAppUsingWhatsap\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Developments\WhatsApp Integration\TestWebAppUsingWhatsap\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Developments\WhatsApp Integration\TestWebAppUsingWhatsap\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Developments\WhatsApp Integration\TestWebAppUsingWhatsap\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Developments\WhatsApp Integration\TestWebAppUsingWhatsap\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Developments\WhatsApp Integration\TestWebAppUsingWhatsap\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\roslyn\System.ValueTuple.dll
+D:\Developments\WhatsApp Integration\TestWebAppUsingWhatsap\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Developments\WhatsApp Integration\TestWebAppUsingWhatsap\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Developments\WhatsApp Integration\TestWebAppUsingWhatsap\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\roslyn\System.Xml.XPath.dll
+D:\Developments\WhatsApp Integration\TestWebAppUsingWhatsap\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Developments\WhatsApp Integration\TestWebAppUsingWhatsap\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\roslyn\vbc.exe
+D:\Developments\WhatsApp Integration\TestWebAppUsingWhatsap\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\roslyn\vbc.exe.config
+D:\Developments\WhatsApp Integration\TestWebAppUsingWhatsap\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\roslyn\vbc.rsp
+D:\Developments\WhatsApp Integration\TestWebAppUsingWhatsap\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\roslyn\VBCSCompiler.exe
+D:\Developments\WhatsApp Integration\TestWebAppUsingWhatsap\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\roslyn\VBCSCompiler.exe.config
+D:\Developments\WhatsApp Integration\TestWebAppUsingWhatsap\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\Antlr3.Runtime.dll
+D:\Developments\WhatsApp Integration\TestWebAppUsingWhatsap\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\AspNet.ScriptManager.bootstrap.dll
+D:\Developments\WhatsApp Integration\TestWebAppUsingWhatsap\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\AspNet.ScriptManager.jQuery.dll
+D:\Developments\WhatsApp Integration\TestWebAppUsingWhatsap\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\Developments\WhatsApp Integration\TestWebAppUsingWhatsap\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\Developments\WhatsApp Integration\TestWebAppUsingWhatsap\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Developments\WhatsApp Integration\TestWebAppUsingWhatsap\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\Developments\WhatsApp Integration\TestWebAppUsingWhatsap\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\Microsoft.ScriptManager.WebForms.dll
+D:\Developments\WhatsApp Integration\TestWebAppUsingWhatsap\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\Microsoft.Web.Infrastructure.dll
+D:\Developments\WhatsApp Integration\TestWebAppUsingWhatsap\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\Newtonsoft.Json.dll
+D:\Developments\WhatsApp Integration\TestWebAppUsingWhatsap\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\System.Net.Http.Formatting.dll
+D:\Developments\WhatsApp Integration\TestWebAppUsingWhatsap\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\System.Web.Helpers.dll
+D:\Developments\WhatsApp Integration\TestWebAppUsingWhatsap\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\System.Web.Http.dll
+D:\Developments\WhatsApp Integration\TestWebAppUsingWhatsap\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\System.Web.Http.WebHost.dll
+D:\Developments\WhatsApp Integration\TestWebAppUsingWhatsap\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\System.Web.Mvc.dll
+D:\Developments\WhatsApp Integration\TestWebAppUsingWhatsap\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\System.Web.Optimization.dll
+D:\Developments\WhatsApp Integration\TestWebAppUsingWhatsap\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\System.Web.Razor.dll
+D:\Developments\WhatsApp Integration\TestWebAppUsingWhatsap\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\System.Web.Webpages.Deployment.dll
+D:\Developments\WhatsApp Integration\TestWebAppUsingWhatsap\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\System.Web.Webpages.dll
+D:\Developments\WhatsApp Integration\TestWebAppUsingWhatsap\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\System.Web.Webpages.Razor.dll
+D:\Developments\WhatsApp Integration\TestWebAppUsingWhatsap\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\WebGrease.dll
+D:\Developments\WhatsApp Integration\TestWebAppUsingWhatsap\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\System.Web.Optimization.xml
+D:\Developments\WhatsApp Integration\TestWebAppUsingWhatsap\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\Newtonsoft.Json.xml
+D:\Developments\WhatsApp Integration\TestWebAppUsingWhatsap\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\Antlr3.Runtime.pdb
+D:\Developments\WhatsApp Integration\TestWebAppUsingWhatsap\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\Developments\WhatsApp Integration\TestWebAppUsingWhatsap\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\System.Web.Razor.xml
+D:\Developments\WhatsApp Integration\TestWebAppUsingWhatsap\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\System.Web.Webpages.xml
+D:\Developments\WhatsApp Integration\TestWebAppUsingWhatsap\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\System.Web.Webpages.Deployment.xml
+D:\Developments\WhatsApp Integration\TestWebAppUsingWhatsap\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\System.Web.Webpages.Razor.xml
+D:\Developments\WhatsApp Integration\TestWebAppUsingWhatsap\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\System.Web.Helpers.xml
+D:\Developments\WhatsApp Integration\TestWebAppUsingWhatsap\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\System.Web.Mvc.xml
+D:\Developments\WhatsApp Integration\TestWebAppUsingWhatsap\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\System.Net.Http.Formatting.xml
+D:\Developments\WhatsApp Integration\TestWebAppUsingWhatsap\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\System.Web.Http.xml
+D:\Developments\WhatsApp Integration\TestWebAppUsingWhatsap\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\System.Web.Http.WebHost.xml
+D:\Developments\WhatsApp Integration\TestWebAppUsingWhatsap\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Developments\WhatsApp Integration\TestWebAppUsingWhatsap\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\obj\Debug\WebAppUsingWhatsAPP.csproj.CoreCompileInputs.cache
+D:\Developments\WhatsApp Integration\TestWebAppUsingWhatsap\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\obj\Debug\WebAppUsingWhatsAPP.csproj.CopyComplete
+D:\Developments\WhatsApp Integration\TestWebAppUsingWhatsap\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\obj\Debug\WebAppUsingWhatsAPP.dll
+D:\Developments\WhatsApp Integration\TestWebAppUsingWhatsap\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\obj\Debug\WebAppUsingWhatsAPP.pdb
+D:\Developments\WhatsApp Integration\TestWebAppUsingWhatsap\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\Microsoft.Win32.Primitives.dll
+D:\Developments\WhatsApp Integration\TestWebAppUsingWhatsap\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\netstandard.dll
+D:\Developments\WhatsApp Integration\TestWebAppUsingWhatsap\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\System.AppContext.dll
+D:\Developments\WhatsApp Integration\TestWebAppUsingWhatsap\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\System.Collections.Concurrent.dll
+D:\Developments\WhatsApp Integration\TestWebAppUsingWhatsap\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\System.Collections.dll
+D:\Developments\WhatsApp Integration\TestWebAppUsingWhatsap\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\System.Collections.NonGeneric.dll
+D:\Developments\WhatsApp Integration\TestWebAppUsingWhatsap\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\System.Collections.Specialized.dll
+D:\Developments\WhatsApp Integration\TestWebAppUsingWhatsap\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\System.ComponentModel.dll
+D:\Developments\WhatsApp Integration\TestWebAppUsingWhatsap\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\System.ComponentModel.EventBasedAsync.dll
+D:\Developments\WhatsApp Integration\TestWebAppUsingWhatsap\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\System.ComponentModel.Primitives.dll
+D:\Developments\WhatsApp Integration\TestWebAppUsingWhatsap\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\System.ComponentModel.TypeConverter.dll
+D:\Developments\WhatsApp Integration\TestWebAppUsingWhatsap\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\System.Console.dll
+D:\Developments\WhatsApp Integration\TestWebAppUsingWhatsap\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\System.Data.Common.dll
+D:\Developments\WhatsApp Integration\TestWebAppUsingWhatsap\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\System.Diagnostics.Contracts.dll
+D:\Developments\WhatsApp Integration\TestWebAppUsingWhatsap\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\System.Diagnostics.Debug.dll
+D:\Developments\WhatsApp Integration\TestWebAppUsingWhatsap\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\System.Diagnostics.FileVersionInfo.dll
+D:\Developments\WhatsApp Integration\TestWebAppUsingWhatsap\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\System.Diagnostics.Process.dll
+D:\Developments\WhatsApp Integration\TestWebAppUsingWhatsap\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\System.Diagnostics.StackTrace.dll
+D:\Developments\WhatsApp Integration\TestWebAppUsingWhatsap\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\System.Diagnostics.TextWriterTraceListener.dll
+D:\Developments\WhatsApp Integration\TestWebAppUsingWhatsap\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\System.Diagnostics.Tools.dll
+D:\Developments\WhatsApp Integration\TestWebAppUsingWhatsap\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\System.Diagnostics.TraceSource.dll
+D:\Developments\WhatsApp Integration\TestWebAppUsingWhatsap\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\System.Diagnostics.Tracing.dll
+D:\Developments\WhatsApp Integration\TestWebAppUsingWhatsap\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\System.Drawing.Primitives.dll
+D:\Developments\WhatsApp Integration\TestWebAppUsingWhatsap\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\System.Dynamic.Runtime.dll
+D:\Developments\WhatsApp Integration\TestWebAppUsingWhatsap\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\System.Globalization.Calendars.dll
+D:\Developments\WhatsApp Integration\TestWebAppUsingWhatsap\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\System.Globalization.dll
+D:\Developments\WhatsApp Integration\TestWebAppUsingWhatsap\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\System.Globalization.Extensions.dll
+D:\Developments\WhatsApp Integration\TestWebAppUsingWhatsap\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\System.IO.Compression.dll
+D:\Developments\WhatsApp Integration\TestWebAppUsingWhatsap\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\System.IO.Compression.ZipFile.dll
+D:\Developments\WhatsApp Integration\TestWebAppUsingWhatsap\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\System.IO.dll
+D:\Developments\WhatsApp Integration\TestWebAppUsingWhatsap\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\System.IO.FileSystem.dll
+D:\Developments\WhatsApp Integration\TestWebAppUsingWhatsap\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\System.IO.FileSystem.DriveInfo.dll
+D:\Developments\WhatsApp Integration\TestWebAppUsingWhatsap\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\System.IO.FileSystem.Primitives.dll
+D:\Developments\WhatsApp Integration\TestWebAppUsingWhatsap\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\System.IO.FileSystem.Watcher.dll
+D:\Developments\WhatsApp Integration\TestWebAppUsingWhatsap\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\System.IO.IsolatedStorage.dll
+D:\Developments\WhatsApp Integration\TestWebAppUsingWhatsap\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\System.IO.MemoryMappedFiles.dll
+D:\Developments\WhatsApp Integration\TestWebAppUsingWhatsap\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\System.IO.Pipes.dll
+D:\Developments\WhatsApp Integration\TestWebAppUsingWhatsap\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\System.IO.UnmanagedMemoryStream.dll
+D:\Developments\WhatsApp Integration\TestWebAppUsingWhatsap\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\System.Linq.dll
+D:\Developments\WhatsApp Integration\TestWebAppUsingWhatsap\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\System.Linq.Expressions.dll
+D:\Developments\WhatsApp Integration\TestWebAppUsingWhatsap\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\System.Linq.Parallel.dll
+D:\Developments\WhatsApp Integration\TestWebAppUsingWhatsap\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\System.Linq.Queryable.dll
+D:\Developments\WhatsApp Integration\TestWebAppUsingWhatsap\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\System.Net.Http.dll
+D:\Developments\WhatsApp Integration\TestWebAppUsingWhatsap\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\System.Net.NameResolution.dll
+D:\Developments\WhatsApp Integration\TestWebAppUsingWhatsap\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\System.Net.NetworkInformation.dll
+D:\Developments\WhatsApp Integration\TestWebAppUsingWhatsap\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\System.Net.Ping.dll
+D:\Developments\WhatsApp Integration\TestWebAppUsingWhatsap\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\System.Net.Primitives.dll
+D:\Developments\WhatsApp Integration\TestWebAppUsingWhatsap\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\System.Net.Requests.dll
+D:\Developments\WhatsApp Integration\TestWebAppUsingWhatsap\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\System.Net.Security.dll
+D:\Developments\WhatsApp Integration\TestWebAppUsingWhatsap\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\System.Net.Sockets.dll
+D:\Developments\WhatsApp Integration\TestWebAppUsingWhatsap\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\System.Net.WebHeaderCollection.dll
+D:\Developments\WhatsApp Integration\TestWebAppUsingWhatsap\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\System.Net.WebSockets.Client.dll
+D:\Developments\WhatsApp Integration\TestWebAppUsingWhatsap\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\System.Net.WebSockets.dll
+D:\Developments\WhatsApp Integration\TestWebAppUsingWhatsap\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\System.ObjectModel.dll
+D:\Developments\WhatsApp Integration\TestWebAppUsingWhatsap\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\System.Reflection.dll
+D:\Developments\WhatsApp Integration\TestWebAppUsingWhatsap\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\System.Reflection.Extensions.dll
+D:\Developments\WhatsApp Integration\TestWebAppUsingWhatsap\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\System.Reflection.Primitives.dll
+D:\Developments\WhatsApp Integration\TestWebAppUsingWhatsap\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\System.Resources.Reader.dll
+D:\Developments\WhatsApp Integration\TestWebAppUsingWhatsap\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\System.Resources.ResourceManager.dll
+D:\Developments\WhatsApp Integration\TestWebAppUsingWhatsap\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\System.Resources.Writer.dll
+D:\Developments\WhatsApp Integration\TestWebAppUsingWhatsap\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\System.Runtime.CompilerServices.VisualC.dll
+D:\Developments\WhatsApp Integration\TestWebAppUsingWhatsap\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\System.Runtime.dll
+D:\Developments\WhatsApp Integration\TestWebAppUsingWhatsap\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\System.Runtime.Extensions.dll
+D:\Developments\WhatsApp Integration\TestWebAppUsingWhatsap\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\System.Runtime.Handles.dll
+D:\Developments\WhatsApp Integration\TestWebAppUsingWhatsap\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\System.Runtime.InteropServices.dll
+D:\Developments\WhatsApp Integration\TestWebAppUsingWhatsap\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Developments\WhatsApp Integration\TestWebAppUsingWhatsap\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\System.Runtime.Numerics.dll
+D:\Developments\WhatsApp Integration\TestWebAppUsingWhatsap\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\System.Runtime.Serialization.Formatters.dll
+D:\Developments\WhatsApp Integration\TestWebAppUsingWhatsap\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\System.Runtime.Serialization.Json.dll
+D:\Developments\WhatsApp Integration\TestWebAppUsingWhatsap\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\System.Runtime.Serialization.Primitives.dll
+D:\Developments\WhatsApp Integration\TestWebAppUsingWhatsap\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\System.Runtime.Serialization.Xml.dll
+D:\Developments\WhatsApp Integration\TestWebAppUsingWhatsap\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\System.Security.Claims.dll
+D:\Developments\WhatsApp Integration\TestWebAppUsingWhatsap\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\System.Security.Cryptography.Algorithms.dll
+D:\Developments\WhatsApp Integration\TestWebAppUsingWhatsap\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\System.Security.Cryptography.Csp.dll
+D:\Developments\WhatsApp Integration\TestWebAppUsingWhatsap\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\System.Security.Cryptography.Encoding.dll
+D:\Developments\WhatsApp Integration\TestWebAppUsingWhatsap\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\System.Security.Cryptography.Primitives.dll
+D:\Developments\WhatsApp Integration\TestWebAppUsingWhatsap\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\System.Security.Cryptography.X509Certificates.dll
+D:\Developments\WhatsApp Integration\TestWebAppUsingWhatsap\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\System.Security.Principal.dll
+D:\Developments\WhatsApp Integration\TestWebAppUsingWhatsap\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\System.Security.SecureString.dll
+D:\Developments\WhatsApp Integration\TestWebAppUsingWhatsap\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\System.Text.Encoding.dll
+D:\Developments\WhatsApp Integration\TestWebAppUsingWhatsap\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\System.Text.Encoding.Extensions.dll
+D:\Developments\WhatsApp Integration\TestWebAppUsingWhatsap\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\System.Text.RegularExpressions.dll
+D:\Developments\WhatsApp Integration\TestWebAppUsingWhatsap\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\System.Threading.dll
+D:\Developments\WhatsApp Integration\TestWebAppUsingWhatsap\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\System.Threading.Overlapped.dll
+D:\Developments\WhatsApp Integration\TestWebAppUsingWhatsap\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\System.Threading.Tasks.dll
+D:\Developments\WhatsApp Integration\TestWebAppUsingWhatsap\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\System.Threading.Tasks.Parallel.dll
+D:\Developments\WhatsApp Integration\TestWebAppUsingWhatsap\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\System.Threading.Thread.dll
+D:\Developments\WhatsApp Integration\TestWebAppUsingWhatsap\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\System.Threading.ThreadPool.dll
+D:\Developments\WhatsApp Integration\TestWebAppUsingWhatsap\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\System.Threading.Timer.dll
+D:\Developments\WhatsApp Integration\TestWebAppUsingWhatsap\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\System.ValueTuple.dll
+D:\Developments\WhatsApp Integration\TestWebAppUsingWhatsap\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\System.Xml.ReaderWriter.dll
+D:\Developments\WhatsApp Integration\TestWebAppUsingWhatsap\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\System.Xml.XDocument.dll
+D:\Developments\WhatsApp Integration\TestWebAppUsingWhatsap\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\System.Xml.XmlDocument.dll
+D:\Developments\WhatsApp Integration\TestWebAppUsingWhatsap\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\System.Xml.XmlSerializer.dll
+D:\Developments\WhatsApp Integration\TestWebAppUsingWhatsap\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\System.Xml.XPath.dll
+D:\Developments\WhatsApp Integration\TestWebAppUsingWhatsap\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\System.Xml.XPath.XDocument.dll
+D:\Developments\WhatsApp Integration\TestWebAppUsingWhatsap\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Developments\WhatsApp Integration\TestWebAppUsingWhatsap\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\RestSharp.dll
+D:\Developments\WhatsApp Integration\TestWebAppUsingWhatsap\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\System.Buffers.dll
+D:\Developments\WhatsApp Integration\TestWebAppUsingWhatsap\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\System.Memory.dll
+D:\Developments\WhatsApp Integration\TestWebAppUsingWhatsap\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\System.Numerics.Vectors.dll
+D:\Developments\WhatsApp Integration\TestWebAppUsingWhatsap\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\Developments\WhatsApp Integration\TestWebAppUsingWhatsap\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\System.Text.Encodings.Web.dll
+D:\Developments\WhatsApp Integration\TestWebAppUsingWhatsap\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\System.Text.Json.dll
+D:\Developments\WhatsApp Integration\TestWebAppUsingWhatsap\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\System.Threading.Tasks.Extensions.dll
+D:\Developments\WhatsApp Integration\TestWebAppUsingWhatsap\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Developments\WhatsApp Integration\TestWebAppUsingWhatsap\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\RestSharp.xml
+D:\Developments\WhatsApp Integration\TestWebAppUsingWhatsap\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\System.Buffers.xml
+D:\Developments\WhatsApp Integration\TestWebAppUsingWhatsap\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\System.Memory.xml
+D:\Developments\WhatsApp Integration\TestWebAppUsingWhatsap\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\System.Numerics.Vectors.xml
+D:\Developments\WhatsApp Integration\TestWebAppUsingWhatsap\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\Developments\WhatsApp Integration\TestWebAppUsingWhatsap\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\System.Text.Encodings.Web.xml
+D:\Developments\WhatsApp Integration\TestWebAppUsingWhatsap\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\System.Text.Json.xml
+D:\Developments\WhatsApp Integration\TestWebAppUsingWhatsap\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\System.Threading.Tasks.Extensions.xml
+D:\Developments\WhatsApp Integration\TestWebAppUsingWhatsap\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\obj\Debug\WebAppUsingWhatsAPP.csproj.AssemblyReference.cache
+D:\Vizion\Send Whatsapp using Untramsg\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\WebAppUsingWhatsAPP.dll.config
+D:\Vizion\Send Whatsapp using Untramsg\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\WebAppUsingWhatsAPP.dll
+D:\Vizion\Send Whatsapp using Untramsg\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\WebAppUsingWhatsAPP.pdb
+D:\Vizion\Send Whatsapp using Untramsg\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\roslyn\csc.exe
+D:\Vizion\Send Whatsapp using Untramsg\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\roslyn\csc.exe.config
+D:\Vizion\Send Whatsapp using Untramsg\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\roslyn\csc.rsp
+D:\Vizion\Send Whatsapp using Untramsg\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\roslyn\csi.exe
+D:\Vizion\Send Whatsapp using Untramsg\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\roslyn\csi.exe.config
+D:\Vizion\Send Whatsapp using Untramsg\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\roslyn\csi.rsp
+D:\Vizion\Send Whatsapp using Untramsg\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Vizion\Send Whatsapp using Untramsg\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Vizion\Send Whatsapp using Untramsg\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Vizion\Send Whatsapp using Untramsg\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Vizion\Send Whatsapp using Untramsg\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Vizion\Send Whatsapp using Untramsg\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Vizion\Send Whatsapp using Untramsg\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Vizion\Send Whatsapp using Untramsg\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Vizion\Send Whatsapp using Untramsg\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Vizion\Send Whatsapp using Untramsg\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Vizion\Send Whatsapp using Untramsg\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Vizion\Send Whatsapp using Untramsg\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Vizion\Send Whatsapp using Untramsg\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\roslyn\System.AppContext.dll
+D:\Vizion\Send Whatsapp using Untramsg\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\roslyn\System.Collections.Immutable.dll
+D:\Vizion\Send Whatsapp using Untramsg\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\roslyn\System.Console.dll
+D:\Vizion\Send Whatsapp using Untramsg\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Vizion\Send Whatsapp using Untramsg\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Vizion\Send Whatsapp using Untramsg\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Vizion\Send Whatsapp using Untramsg\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\roslyn\System.Globalization.Calendars.dll
+D:\Vizion\Send Whatsapp using Untramsg\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\roslyn\System.IO.Compression.dll
+D:\Vizion\Send Whatsapp using Untramsg\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Vizion\Send Whatsapp using Untramsg\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\roslyn\System.IO.FileSystem.dll
+D:\Vizion\Send Whatsapp using Untramsg\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Vizion\Send Whatsapp using Untramsg\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\roslyn\System.Net.Http.dll
+D:\Vizion\Send Whatsapp using Untramsg\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\roslyn\System.Net.Sockets.dll
+D:\Vizion\Send Whatsapp using Untramsg\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\roslyn\System.Reflection.Metadata.dll
+D:\Vizion\Send Whatsapp using Untramsg\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Vizion\Send Whatsapp using Untramsg\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Vizion\Send Whatsapp using Untramsg\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Vizion\Send Whatsapp using Untramsg\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Vizion\Send Whatsapp using Untramsg\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Vizion\Send Whatsapp using Untramsg\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Vizion\Send Whatsapp using Untramsg\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Vizion\Send Whatsapp using Untramsg\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\roslyn\System.ValueTuple.dll
+D:\Vizion\Send Whatsapp using Untramsg\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Vizion\Send Whatsapp using Untramsg\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Vizion\Send Whatsapp using Untramsg\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\roslyn\System.Xml.XPath.dll
+D:\Vizion\Send Whatsapp using Untramsg\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Vizion\Send Whatsapp using Untramsg\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\roslyn\vbc.exe
+D:\Vizion\Send Whatsapp using Untramsg\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\roslyn\vbc.exe.config
+D:\Vizion\Send Whatsapp using Untramsg\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\roslyn\vbc.rsp
+D:\Vizion\Send Whatsapp using Untramsg\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\roslyn\VBCSCompiler.exe
+D:\Vizion\Send Whatsapp using Untramsg\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\roslyn\VBCSCompiler.exe.config
+D:\Vizion\Send Whatsapp using Untramsg\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\Microsoft.Win32.Primitives.dll
+D:\Vizion\Send Whatsapp using Untramsg\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\netstandard.dll
+D:\Vizion\Send Whatsapp using Untramsg\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\System.AppContext.dll
+D:\Vizion\Send Whatsapp using Untramsg\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\System.Collections.Concurrent.dll
+D:\Vizion\Send Whatsapp using Untramsg\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\System.Collections.dll
+D:\Vizion\Send Whatsapp using Untramsg\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\System.Collections.NonGeneric.dll
+D:\Vizion\Send Whatsapp using Untramsg\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\System.Collections.Specialized.dll
+D:\Vizion\Send Whatsapp using Untramsg\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\System.ComponentModel.dll
+D:\Vizion\Send Whatsapp using Untramsg\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\System.ComponentModel.EventBasedAsync.dll
+D:\Vizion\Send Whatsapp using Untramsg\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\System.ComponentModel.Primitives.dll
+D:\Vizion\Send Whatsapp using Untramsg\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\System.ComponentModel.TypeConverter.dll
+D:\Vizion\Send Whatsapp using Untramsg\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\System.Console.dll
+D:\Vizion\Send Whatsapp using Untramsg\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\System.Data.Common.dll
+D:\Vizion\Send Whatsapp using Untramsg\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\System.Diagnostics.Contracts.dll
+D:\Vizion\Send Whatsapp using Untramsg\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\System.Diagnostics.Debug.dll
+D:\Vizion\Send Whatsapp using Untramsg\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\System.Diagnostics.FileVersionInfo.dll
+D:\Vizion\Send Whatsapp using Untramsg\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\System.Diagnostics.Process.dll
+D:\Vizion\Send Whatsapp using Untramsg\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\System.Diagnostics.StackTrace.dll
+D:\Vizion\Send Whatsapp using Untramsg\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\System.Diagnostics.TextWriterTraceListener.dll
+D:\Vizion\Send Whatsapp using Untramsg\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\System.Diagnostics.Tools.dll
+D:\Vizion\Send Whatsapp using Untramsg\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\System.Diagnostics.TraceSource.dll
+D:\Vizion\Send Whatsapp using Untramsg\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\System.Diagnostics.Tracing.dll
+D:\Vizion\Send Whatsapp using Untramsg\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\System.Drawing.Primitives.dll
+D:\Vizion\Send Whatsapp using Untramsg\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\System.Dynamic.Runtime.dll
+D:\Vizion\Send Whatsapp using Untramsg\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\System.Globalization.Calendars.dll
+D:\Vizion\Send Whatsapp using Untramsg\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\System.Globalization.dll
+D:\Vizion\Send Whatsapp using Untramsg\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\System.Globalization.Extensions.dll
+D:\Vizion\Send Whatsapp using Untramsg\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\System.IO.Compression.dll
+D:\Vizion\Send Whatsapp using Untramsg\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\System.IO.Compression.ZipFile.dll
+D:\Vizion\Send Whatsapp using Untramsg\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\System.IO.dll
+D:\Vizion\Send Whatsapp using Untramsg\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\System.IO.FileSystem.dll
+D:\Vizion\Send Whatsapp using Untramsg\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\System.IO.FileSystem.DriveInfo.dll
+D:\Vizion\Send Whatsapp using Untramsg\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\System.IO.FileSystem.Primitives.dll
+D:\Vizion\Send Whatsapp using Untramsg\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\System.IO.FileSystem.Watcher.dll
+D:\Vizion\Send Whatsapp using Untramsg\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\System.IO.IsolatedStorage.dll
+D:\Vizion\Send Whatsapp using Untramsg\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\System.IO.MemoryMappedFiles.dll
+D:\Vizion\Send Whatsapp using Untramsg\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\System.IO.Pipes.dll
+D:\Vizion\Send Whatsapp using Untramsg\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\System.IO.UnmanagedMemoryStream.dll
+D:\Vizion\Send Whatsapp using Untramsg\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\System.Linq.dll
+D:\Vizion\Send Whatsapp using Untramsg\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\System.Linq.Expressions.dll
+D:\Vizion\Send Whatsapp using Untramsg\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\System.Linq.Parallel.dll
+D:\Vizion\Send Whatsapp using Untramsg\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\System.Linq.Queryable.dll
+D:\Vizion\Send Whatsapp using Untramsg\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\System.Net.Http.dll
+D:\Vizion\Send Whatsapp using Untramsg\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\System.Net.NameResolution.dll
+D:\Vizion\Send Whatsapp using Untramsg\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\System.Net.NetworkInformation.dll
+D:\Vizion\Send Whatsapp using Untramsg\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\System.Net.Ping.dll
+D:\Vizion\Send Whatsapp using Untramsg\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\System.Net.Primitives.dll
+D:\Vizion\Send Whatsapp using Untramsg\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\System.Net.Requests.dll
+D:\Vizion\Send Whatsapp using Untramsg\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\System.Net.Security.dll
+D:\Vizion\Send Whatsapp using Untramsg\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\System.Net.Sockets.dll
+D:\Vizion\Send Whatsapp using Untramsg\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\System.Net.WebHeaderCollection.dll
+D:\Vizion\Send Whatsapp using Untramsg\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\System.Net.WebSockets.Client.dll
+D:\Vizion\Send Whatsapp using Untramsg\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\System.Net.WebSockets.dll
+D:\Vizion\Send Whatsapp using Untramsg\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\System.ObjectModel.dll
+D:\Vizion\Send Whatsapp using Untramsg\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\System.Reflection.dll
+D:\Vizion\Send Whatsapp using Untramsg\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\System.Reflection.Extensions.dll
+D:\Vizion\Send Whatsapp using Untramsg\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\System.Reflection.Primitives.dll
+D:\Vizion\Send Whatsapp using Untramsg\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\System.Resources.Reader.dll
+D:\Vizion\Send Whatsapp using Untramsg\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\System.Resources.ResourceManager.dll
+D:\Vizion\Send Whatsapp using Untramsg\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\System.Resources.Writer.dll
+D:\Vizion\Send Whatsapp using Untramsg\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\System.Runtime.CompilerServices.VisualC.dll
+D:\Vizion\Send Whatsapp using Untramsg\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\System.Runtime.dll
+D:\Vizion\Send Whatsapp using Untramsg\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\System.Runtime.Extensions.dll
+D:\Vizion\Send Whatsapp using Untramsg\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\System.Runtime.Handles.dll
+D:\Vizion\Send Whatsapp using Untramsg\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\System.Runtime.InteropServices.dll
+D:\Vizion\Send Whatsapp using Untramsg\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Vizion\Send Whatsapp using Untramsg\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\System.Runtime.Numerics.dll
+D:\Vizion\Send Whatsapp using Untramsg\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\System.Runtime.Serialization.Formatters.dll
+D:\Vizion\Send Whatsapp using Untramsg\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\System.Runtime.Serialization.Json.dll
+D:\Vizion\Send Whatsapp using Untramsg\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\System.Runtime.Serialization.Primitives.dll
+D:\Vizion\Send Whatsapp using Untramsg\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\System.Runtime.Serialization.Xml.dll
+D:\Vizion\Send Whatsapp using Untramsg\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\System.Security.Claims.dll
+D:\Vizion\Send Whatsapp using Untramsg\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\System.Security.Cryptography.Algorithms.dll
+D:\Vizion\Send Whatsapp using Untramsg\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\System.Security.Cryptography.Csp.dll
+D:\Vizion\Send Whatsapp using Untramsg\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\System.Security.Cryptography.Encoding.dll
+D:\Vizion\Send Whatsapp using Untramsg\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\System.Security.Cryptography.Primitives.dll
+D:\Vizion\Send Whatsapp using Untramsg\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\System.Security.Cryptography.X509Certificates.dll
+D:\Vizion\Send Whatsapp using Untramsg\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\System.Security.Principal.dll
+D:\Vizion\Send Whatsapp using Untramsg\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\System.Security.SecureString.dll
+D:\Vizion\Send Whatsapp using Untramsg\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\System.Text.Encoding.dll
+D:\Vizion\Send Whatsapp using Untramsg\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\System.Text.Encoding.Extensions.dll
+D:\Vizion\Send Whatsapp using Untramsg\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\System.Text.RegularExpressions.dll
+D:\Vizion\Send Whatsapp using Untramsg\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\System.Threading.dll
+D:\Vizion\Send Whatsapp using Untramsg\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\System.Threading.Overlapped.dll
+D:\Vizion\Send Whatsapp using Untramsg\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\System.Threading.Tasks.dll
+D:\Vizion\Send Whatsapp using Untramsg\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\System.Threading.Tasks.Parallel.dll
+D:\Vizion\Send Whatsapp using Untramsg\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\System.Threading.Thread.dll
+D:\Vizion\Send Whatsapp using Untramsg\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\System.Threading.ThreadPool.dll
+D:\Vizion\Send Whatsapp using Untramsg\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\System.Threading.Timer.dll
+D:\Vizion\Send Whatsapp using Untramsg\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\System.ValueTuple.dll
+D:\Vizion\Send Whatsapp using Untramsg\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\System.Xml.ReaderWriter.dll
+D:\Vizion\Send Whatsapp using Untramsg\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\System.Xml.XDocument.dll
+D:\Vizion\Send Whatsapp using Untramsg\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\System.Xml.XmlDocument.dll
+D:\Vizion\Send Whatsapp using Untramsg\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\System.Xml.XmlSerializer.dll
+D:\Vizion\Send Whatsapp using Untramsg\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\System.Xml.XPath.dll
+D:\Vizion\Send Whatsapp using Untramsg\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\System.Xml.XPath.XDocument.dll
+D:\Vizion\Send Whatsapp using Untramsg\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\Antlr3.Runtime.dll
+D:\Vizion\Send Whatsapp using Untramsg\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\AspNet.ScriptManager.bootstrap.dll
+D:\Vizion\Send Whatsapp using Untramsg\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\AspNet.ScriptManager.jQuery.dll
+D:\Vizion\Send Whatsapp using Untramsg\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\Vizion\Send Whatsapp using Untramsg\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\Vizion\Send Whatsapp using Untramsg\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Vizion\Send Whatsapp using Untramsg\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Vizion\Send Whatsapp using Untramsg\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\Vizion\Send Whatsapp using Untramsg\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\Microsoft.ScriptManager.WebForms.dll
+D:\Vizion\Send Whatsapp using Untramsg\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\Microsoft.Web.Infrastructure.dll
+D:\Vizion\Send Whatsapp using Untramsg\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\Newtonsoft.Json.dll
+D:\Vizion\Send Whatsapp using Untramsg\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\RestSharp.dll
+D:\Vizion\Send Whatsapp using Untramsg\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\System.Buffers.dll
+D:\Vizion\Send Whatsapp using Untramsg\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\System.Memory.dll
+D:\Vizion\Send Whatsapp using Untramsg\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\System.Net.Http.Formatting.dll
+D:\Vizion\Send Whatsapp using Untramsg\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\System.Numerics.Vectors.dll
+D:\Vizion\Send Whatsapp using Untramsg\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\Vizion\Send Whatsapp using Untramsg\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\System.Text.Encodings.Web.dll
+D:\Vizion\Send Whatsapp using Untramsg\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\System.Text.Json.dll
+D:\Vizion\Send Whatsapp using Untramsg\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\System.Threading.Tasks.Extensions.dll
+D:\Vizion\Send Whatsapp using Untramsg\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\System.Web.Helpers.dll
+D:\Vizion\Send Whatsapp using Untramsg\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\System.Web.Http.dll
+D:\Vizion\Send Whatsapp using Untramsg\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\System.Web.Http.WebHost.dll
+D:\Vizion\Send Whatsapp using Untramsg\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\System.Web.Mvc.dll
+D:\Vizion\Send Whatsapp using Untramsg\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\System.Web.Optimization.dll
+D:\Vizion\Send Whatsapp using Untramsg\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\System.Web.Razor.dll
+D:\Vizion\Send Whatsapp using Untramsg\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\System.Web.Webpages.Deployment.dll
+D:\Vizion\Send Whatsapp using Untramsg\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\System.Web.Webpages.dll
+D:\Vizion\Send Whatsapp using Untramsg\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\System.Web.Webpages.Razor.dll
+D:\Vizion\Send Whatsapp using Untramsg\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\WebGrease.dll
+D:\Vizion\Send Whatsapp using Untramsg\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Vizion\Send Whatsapp using Untramsg\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\RestSharp.xml
+D:\Vizion\Send Whatsapp using Untramsg\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\System.Buffers.xml
+D:\Vizion\Send Whatsapp using Untramsg\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\System.Memory.xml
+D:\Vizion\Send Whatsapp using Untramsg\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\System.Numerics.Vectors.xml
+D:\Vizion\Send Whatsapp using Untramsg\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\Vizion\Send Whatsapp using Untramsg\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\System.Text.Encodings.Web.xml
+D:\Vizion\Send Whatsapp using Untramsg\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\System.Text.Json.xml
+D:\Vizion\Send Whatsapp using Untramsg\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\System.Threading.Tasks.Extensions.xml
+D:\Vizion\Send Whatsapp using Untramsg\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\System.Web.Optimization.xml
+D:\Vizion\Send Whatsapp using Untramsg\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\Newtonsoft.Json.xml
+D:\Vizion\Send Whatsapp using Untramsg\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\Antlr3.Runtime.pdb
+D:\Vizion\Send Whatsapp using Untramsg\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\Vizion\Send Whatsapp using Untramsg\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\System.Web.Razor.xml
+D:\Vizion\Send Whatsapp using Untramsg\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\System.Web.Webpages.xml
+D:\Vizion\Send Whatsapp using Untramsg\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\System.Web.Webpages.Deployment.xml
+D:\Vizion\Send Whatsapp using Untramsg\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\System.Web.Webpages.Razor.xml
+D:\Vizion\Send Whatsapp using Untramsg\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\System.Web.Helpers.xml
+D:\Vizion\Send Whatsapp using Untramsg\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\System.Web.Mvc.xml
+D:\Vizion\Send Whatsapp using Untramsg\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\System.Net.Http.Formatting.xml
+D:\Vizion\Send Whatsapp using Untramsg\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\System.Web.Http.xml
+D:\Vizion\Send Whatsapp using Untramsg\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\System.Web.Http.WebHost.xml
+D:\Vizion\Send Whatsapp using Untramsg\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Vizion\Send Whatsapp using Untramsg\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\obj\Debug\WebAppUsingWhatsAPP.csproj.AssemblyReference.cache
+D:\Vizion\Send Whatsapp using Untramsg\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\obj\Debug\WebAppUsingWhatsAPP.csproj.CoreCompileInputs.cache
+D:\Vizion\Send Whatsapp using Untramsg\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\obj\Debug\WebAppUsingWhatsAPP.csproj.CopyComplete
+D:\Vizion\Send Whatsapp using Untramsg\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\obj\Debug\WebAppUsingWhatsAPP.dll
+D:\Vizion\Send Whatsapp using Untramsg\WebAppUsingWhatsAPP\WebAppUsingWhatsAPP\obj\Debug\WebAppUsingWhatsAPP.pdb
